@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/75384642f6414236bfc337d27b16b921)](https://app.codacy.com/manual/pkokovin/votesystem?utm_source=github.com&utm_medium=referral&utm_content=pkokovin/votesystem&utm_campaign=Badge_Grade_Dashboard)
+
 Выпускной проект Topjava
 
 - Task

@@ -9,7 +9,6 @@ import ru.kokovin.votesystem.model.Restaurant;
 import ru.kokovin.votesystem.repository.DishRepository;
 import ru.kokovin.votesystem.repository.RestaurantRepository;
 
-import java.time.Clock;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;

@@ -10,7 +10,6 @@ import javax.validation.Valid;
 
 
 import java.net.URI;
-import java.util.List;
 import java.util.Map;
 
 @RestController
@@ -36,5 +35,4 @@ public class RestaurantAdminController extends AbstractRestaurantController {
     public ResponseEntity<Restaurant> upd(@Valid @RequestBody Restaurant restaurant, @PathVariable int id) {
         return ResponseEntity.ok().body(super.update(restaurant, id));
     }
-
 }

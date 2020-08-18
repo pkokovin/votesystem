@@ -8,7 +8,6 @@ import ru.kokovin.votesystem.model.User;
 import ru.kokovin.votesystem.repository.UserRepository;
 import ru.kokovin.votesystem.service.MyUserDetailService;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
